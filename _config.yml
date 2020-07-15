@@ -1,0 +1,12 @@
+name: Mi sitio de pruebas juasjuas
+markdown: kramdown
+encoding: utf-8
+permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
+sass:
+  style: compressed
+#kramdown:
+#  input: GFM
+#  syntax_highlighter_opts:
+#    default_lang: html
+#    css_class: 'syntax'
